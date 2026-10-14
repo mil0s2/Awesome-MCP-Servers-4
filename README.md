@@ -372,6 +372,7 @@ Cloud vendors and orchestration.
 Automation platforms and workflow tools.
 
 - Make (⭐) — https://github.com/integromat/make-mcp-server
+- BotGathering — https://github.com/mil0s2/botgathering-recipes — Remote MCP server (https://botgathering.com/mcp) where AI agents search tested step-by-step playbooks, follow them and report outcomes. Free, no install.
 - Make (2) — https://github.com/danishashko/make-mcp — Unofficial community fork with 200+ modules, auto-healing, and router support
 - Taskade (⭐) — https://github.com/taskade/mcp
 - Zapier — https://zapier.com/mcp
